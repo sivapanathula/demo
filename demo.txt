@@ -1,2 +1,3 @@
 hello siva welcome to git.
 using pull command
+pull is very easy
